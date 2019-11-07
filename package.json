@@ -1,0 +1,19 @@
+{
+  "name": "ocean-land",
+  "version": "1.0.0",
+  "description": "ocean-land",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevepopovich/ocean-land.git"
+  },
+  "author": "ryteven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevepopovich/ocean-land/issues"
+  },
+  "homepage": "https://github.com/stevepopovich/ocean-land#readme"
+}
